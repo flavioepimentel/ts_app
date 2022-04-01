@@ -1,6 +1,6 @@
 # ts_app
 
-Arquivo de consulta de sintaxe do Tyscript
+Arquivo de consulta de sintaxe do Tyscript.
 
 ### Microsoft Learn
 
